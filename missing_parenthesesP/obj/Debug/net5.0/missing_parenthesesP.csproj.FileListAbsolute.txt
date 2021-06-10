@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\missing_parenthesesP.exe
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\missing_parenthesesP.deps.json
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\missing_parenthesesP.runtimeconfig.json
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\missing_parenthesesP.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\missing_parenthesesP.dll
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\ref\missing_parenthesesP.dll
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\bin\Debug\net5.0\missing_parenthesesP.pdb
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.dll
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\ref\missing_parenthesesP.dll
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.pdb
+C:\Users\Lenovo\Desktop\missing_Parent\missing_parenthesesP\obj\Debug\net5.0\missing_parenthesesP.genruntimeconfig.cache
