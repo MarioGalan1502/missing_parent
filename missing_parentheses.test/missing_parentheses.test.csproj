@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\missing_parenthesesP\missing_parenthesesP.csproj" />
+    <ProjectReference Include="..\missing_Part2\missing_Part2.csproj" />
   </ItemGroup>
 
 </Project>

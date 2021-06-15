@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parentheses.test\\missing_parentheses.test.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parentheses.test\\missing_parentheses.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parentheses.test\\missing_parentheses.test.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parentheses.test\\missing_parentheses.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parentheses.test\\missing_parentheses.test.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parentheses.test\\missing_parentheses.test.csproj",
         "projectName": "missing_parentheses.test",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parentheses.test\\missing_parentheses.test.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parentheses.test\\missing_parentheses.test.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parentheses.test\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parentheses.test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parenthesesP\\missing_parenthesesP.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parenthesesP\\missing_parenthesesP.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parenthesesP\\missing_parenthesesP.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parenthesesP\\missing_parenthesesP.csproj"
+              },
+              "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_Part2\\missing_Part2.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_Part2\\missing_Part2.csproj"
               }
             }
           }
@@ -76,14 +79,68 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parenthesesP\\missing_parenthesesP.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parenthesesP\\missing_parenthesesP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parenthesesP\\missing_parenthesesP.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parenthesesP\\missing_parenthesesP.csproj",
         "projectName": "missing_parenthesesP",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parenthesesP\\missing_parenthesesP.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parenthesesP\\missing_parenthesesP.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\missing_Parent\\missing_parenthesesP\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_parenthesesP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_Part2\\missing_Part2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_Part2\\missing_Part2.csproj",
+        "projectName": "missing_Part2",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_Part2\\missing_Part2.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\missing_parents\\missing_parent\\missing_Part2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

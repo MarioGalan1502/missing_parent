@@ -11,6 +11,7 @@
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "NUnit": "3.12.0",
           "NUnit3TestAdapter": "3.16.1",
+          "missing_Part2": "1.0.0",
           "missing_parenthesesP": "1.0.0"
         },
         "runtime": {
@@ -870,6 +871,11 @@
         "runtime": {
           "missing_parenthesesP.dll": {}
         }
+      },
+      "missing_Part2/1.0.0": {
+        "runtime": {
+          "missing_Part2.dll": {}
+        }
       }
     }
   },
@@ -1321,6 +1327,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "missing_parenthesesP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "missing_Part2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

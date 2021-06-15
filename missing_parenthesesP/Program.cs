@@ -47,7 +47,7 @@ namespace missing_parenthesesP
   
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
